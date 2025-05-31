@@ -1,2 +1,3 @@
-  chainlit run main.py 
+web: chainlit run main.py
+
 
